@@ -10,6 +10,6 @@ public class demo {
     	for(int i = 1; i <= 2;i++){
     		s = sc.nextLine();
     	}
-    	System.out.println("[null, true, true, false, false]");
+    	System.out.println("[null, true, true, false, false]");//git²âÊÔ
     }
 }
